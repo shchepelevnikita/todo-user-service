@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/shchepelevnikita/todo-user-service/pkg/response"
+	response "github.com/shchepelevnikita/todo-user-service/pkg/http/response"
 	"golang.org/x/crypto/bcrypt"
 )
 

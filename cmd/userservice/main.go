@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/shchepelevnikita/todo-list/internal/userservice"
+	"github.com/shchepelevnikita/todo-user-service/internal/userservice"
 )
 
 func main() {
